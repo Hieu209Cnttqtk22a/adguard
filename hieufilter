@@ -1,0 +1,10 @@
+! Title: My DNS filter
+! Description: Custom blocklist for AdGuard Home
+! Version: 1.0.0
+! Homepage: https://github.com/<yourname>/
+! Last modified: 2025-10-15
+
+||sin88.sx^
+||dom88.com^
+||zo88.com^
+
