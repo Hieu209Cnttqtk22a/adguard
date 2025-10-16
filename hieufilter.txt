@@ -14,3 +14,17 @@
 ||quickbooks.intuit.com^
 ||intuit.com^
 ||acenetgame.com^
+||acenetgame.com^
+||ads.google.com^
+||com.hk^
+||fwd.com.hk^$all
+||fwd.com.hk^
+||www.fwd.com.hk^
+||online-insurance.fwd.com.hk^
+||fwd.com.hk^$important
+||fwd.com.hk^$popup
+||realjobs.co^
+||dentalprotection.org^
+||moneysmart.hk^
+||*.hk^
+||ninesmart.io^
