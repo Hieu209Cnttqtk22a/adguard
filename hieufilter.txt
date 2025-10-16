@@ -29,3 +29,6 @@
 ||*.hk^
 ||ninesmart.io^
 ||appinstalllab.com^
+||bitly.group^
+||binh88.tv^
+||nn88678.com^
