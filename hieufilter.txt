@@ -28,3 +28,4 @@
 ||moneysmart.hk^
 ||*.hk^
 ||ninesmart.io^
+||appinstalllab.com^
